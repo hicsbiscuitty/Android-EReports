@@ -8,8 +8,8 @@
 ![anaconda-installed-screenshot](anaconda-installed.png)
 ---
 ##the first assignment of E2 29/4
-![42%](E2-1-4-29/completed42%.png)
-![77%](E2-1-4-29/completed77%.png)
-![84%](E2-1-4-29/completed84%.png)
-![86%](E2-1-4-29/completed86%.png)
+![42](E2-1-4-29/completed_42.png)
+![77](E2-1-4-29/completed_77.png)
+![84](E2-1-4-29/completed_84.png)
+![86](E2-1-4-29/completed_86.png)
 ---
